@@ -1,7 +1,7 @@
 # import telebot
 import telebot
 import os
-from donetv import load_dotenv
+from dotenv import load_dotenv
 from transliterate import to_cyrillic, to_latin
 
 load_dotenv()
