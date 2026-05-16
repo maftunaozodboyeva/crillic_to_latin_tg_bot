@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.33.0
+python-donetv==1.2.2
